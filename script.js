@@ -151,7 +151,7 @@ function calcularSalario(){
     }
     
     let pagoX6 = document.getElementById('pagoTotal');
-    pagoX6.innerHTML ="El total de 6 años: " + "$"+ salarioInicial;
+    pagoX6.innerHTML ="Despues de 6 años su salario aumento a: " + "$"+ salarioInicial;
 
 }
 
